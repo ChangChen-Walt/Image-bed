@@ -1,3 +1,3 @@
 # Image-bed
 
-Applied by Pic-go
+Implemented with Pic-go
